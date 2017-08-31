@@ -2,3 +2,5 @@ tweepy
 textblob
 jupyter
 requests
+spacy
+pandas
