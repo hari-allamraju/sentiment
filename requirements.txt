@@ -6,3 +6,5 @@ spacy
 pandas
 polyglot
 matplotlib
+redis
+celery
